@@ -1,0 +1,5 @@
+{
+  "name": "Spot Finder - Local Food Guide",
+  "description": "A premium local restaurant directory for Coimbatore, featuring detailed menus, ratings, and navigation support. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
